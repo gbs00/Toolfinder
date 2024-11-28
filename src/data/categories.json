@@ -1,0 +1,52 @@
+{
+  "categories": [
+    {
+      "id": "development",
+      "slug": "development",
+      "name": {
+        "en": "Development",
+        "zh": "开发工具"
+      },
+      "icon": "🛠️",
+      "toolCount": 3,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "design",
+      "slug": "design",
+      "name": {
+        "en": "Design",
+        "zh": "设计工具"
+      },
+      "icon": "🎨",
+      "toolCount": 2,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "productivity",
+      "slug": "productivity",
+      "name": {
+        "en": "Productivity",
+        "zh": "效率工具"
+      },
+      "icon": "⚡",
+      "toolCount": 2,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "ai",
+      "slug": "ai",
+      "name": {
+        "en": "AI",
+        "zh": "人工智能"
+      },
+      "icon": "🤖",
+      "toolCount": 2,
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}

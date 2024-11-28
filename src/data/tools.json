@@ -1,0 +1,109 @@
+{
+  "tools": [
+    {
+      "id": "vscode",
+      "slug": "vscode",
+      "name": {
+        "en": "Visual Studio Code",
+        "zh": "Visual Studio Code"
+      },
+      "categories": ["development"],
+      "url": "https://code.visualstudio.com",
+      "icon": "/tools/vscode.svg",
+      "description": {
+        "en": "A lightweight but powerful source code editor",
+        "zh": "轻量级但功能强大的源代码编辑器"
+      },
+      "content": {
+        "en": "Visual Studio Code is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.",
+        "zh": "Visual Studio Code 是微软使用 Electron Framework 开发的源代码编辑器，支持 Windows、Linux 和 macOS。功能包括调试支持、语法高亮、智能代码补全、代码片段、代码重构和内置 Git。"
+      },
+      "features": {
+        "en": [
+          "IntelliSense",
+          "Debugging",
+          "Built-in Git",
+          "Extensions"
+        ],
+        "zh": [
+          "智能感知",
+          "调试功能",
+          "内置Git",
+          "扩展支持"
+        ]
+      },
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "figma",
+      "slug": "figma",
+      "name": {
+        "en": "Figma",
+        "zh": "Figma"
+      },
+      "categories": ["design"],
+      "url": "https://www.figma.com",
+      "icon": "/tools/figma.svg",
+      "description": {
+        "en": "A collaborative interface design tool",
+        "zh": "协作式界面设计工具"
+      },
+      "content": {
+        "en": "Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.",
+        "zh": "Figma 是一个矢量图形编辑器和原型设计工具，主要基于网页，同时通过桌面应用程序为 macOS 和 Windows 提供离线功能。"
+      },
+      "features": {
+        "en": [
+          "Real-time collaboration",
+          "Vector networks",
+          "Auto-layout",
+          "Components"
+        ],
+        "zh": [
+          "实时协作",
+          "矢量网络",
+          "自动布局",
+          "组件系统"
+        ]
+      },
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    },
+    {
+      "id": "chatgpt",
+      "slug": "chatgpt",
+      "name": {
+        "en": "ChatGPT",
+        "zh": "ChatGPT"
+      },
+      "categories": ["ai", "productivity"],
+      "url": "https://chat.openai.com",
+      "icon": "/tools/chatgpt.svg",
+      "description": {
+        "en": "AI-powered conversational assistant",
+        "zh": "AI驱动的对话助手"
+      },
+      "content": {
+        "en": "ChatGPT is an AI-powered language model developed by OpenAI that can engage in conversational dialogue and provide human-like responses to a wide range of topics.",
+        "zh": "ChatGPT 是由 OpenAI 开发的 AI 语言模型，可以进行对话交流，并对广泛的主题提供类人回应。"
+      },
+      "features": {
+        "en": [
+          "Natural language processing",
+          "Context awareness",
+          "Multi-turn conversations",
+          "Knowledge base"
+        ],
+        "zh": [
+          "自然语言处理",
+          "上下文感知",
+          "多轮对话",
+          "知识库"
+        ]
+      },
+      "createdAt": "2024-01-01T00:00:00Z",
+      "updatedAt": "2024-01-01T00:00:00Z"
+    }
+  ]
+}
